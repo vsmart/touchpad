@@ -1,0 +1,20 @@
+Touchscreen keyboard correction 
+===============================
+
+Set up
+------
+
+Make sure you have python 2.x installed on your machine
+and installed the nltk library. 
+
+Run
+---
+
+There is no main function but the separate functions may be 
+loaded individually in the repl 
+to see results, e.g. split_into_pairs ('hallo'). 
+
+To inspect the code simply open the files in your favourite 
+text editor. Function documentation is included there. 
+
+
